@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Muhammad Ridhwan!
+**Backend Developer | Python Enthusiast**
 
-<!--
-**AlterRemz/AlterRemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di My profil! Saat ini aku sedang membangun *backend* yang efisien, merancang arsitektur REST API untuk sistem pencatatan transaksi keuangan, dan selalu penasaran untuk mengulik hal-hal baru di dunia integrasi sistem.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack & Tools:**
+- **Language:** Python
+- **Framework & Data Validation:** FastAPI, Pydantic
+- **Database (ORM):** SQLite, SQLAlchemy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Exploring:** 
+- Cloud Deployment & Server Management ☁️
+- Integrasi Discord Bot API (*Webhook*) 🤖
