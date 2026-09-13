@@ -1,13 +1,39 @@
-### Hi there 👋, I'm Muhammad Ridhwan!
-**Backend Developer | Python Enthusiast**
+# Muhammad Ridhwan 
 
-Selamat datang di My profil! Saat ini aku sedang membangun *backend* yang efisien, merancang arsitektur REST API untuk sistem pencatatan transaksi keuangan, dan selalu penasaran untuk mengulik hal-hal baru di dunia integrasi sistem.
+**Back-End Developer | Python Enthusiast**
 
-🛠 **Tech Stack & Tools:**
-- **Language:** Python
-- **Framework & Data Validation:** FastAPI, Pydantic
-- **Database (ORM):** SQLite, SQLAlchemy
+Building back-end systems with Python, focusing on
+API development, databases, and practical automation.
 
-🌱 **Currently Exploring:** 
-- Cloud Deployment & Server Management ☁️
-- Integrasi Discord Bot API (*Webhook*) 🤖
+### 🔭 Focus
+
+- REST API development with **FastAPI**
+- Database design & ORM with **SQLAlchemy**
+- Data validation with **Pydantic**
+- PostgreSQL & SQLite
+- Async applications & Discord bots
+
+### 🛠️ Tech Stack
+
+**Languages**
+Python · SQL · Bash
+
+**Frameworks & Libraries**
+FastAPI · SQLAlchemy · Pydantic · discord.py
+
+**Databases**
+PostgreSQL · SQLite
+
+**Cloud & Services**
+Supabase · Vercel · Wishpbyte
+
+**Tools**
+Git · GitHub · Linux · Docker
+
+### 🌱 Learning
+
+`Docker` **·** `Database Migration` **·** `Back-End Architecture`
+
+---
+
+> Build. Test. Understand.
